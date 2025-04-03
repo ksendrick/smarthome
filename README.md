@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -231,3 +232,7 @@ vendor/bin/codecept run functional,unit --coverage --coverage-html --coverage-xm
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+=======
+# smarthome
+SmartHome – это платформа для  управления умным домом,  предоставляющая возможность  контроля освещения, отопления и  других систем.
+>>>>>>> 08bfca283fce5ccd35f172adc23681c930a33c14
