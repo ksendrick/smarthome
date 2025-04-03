@@ -1,0 +1,9 @@
+User-agent: *
+Allow: *
+
+Disallow: /admin/*
+
+Allow: /img/*
+Allow: /css/*
+
+Sitemap: https://smarthome.kpk45.ru/web/sitemap.xml

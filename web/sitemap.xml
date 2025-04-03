@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/shemas/sitemap/0.9">
+    <url>
+        <loc>https://smarthome.kpk45.ru/site/index.html</loc>
+        <lastmod>2025-03-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://smarthome.kpk45.ru/notifications/index.html</loc>
+        <lastmod>2025-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://smarthome.kpk45.ru/type/index.html</loc>
+        <lastmod>2025-03-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://smarthome.kpk45.ru/device/index.html</loc>
+        <lastmod>2025-03-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://smarthome.kpk45.ru/site/profile.html</loc>
+        <lastmod>2025-03-18</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.9</priority>
+    </url>
+</urlset>
